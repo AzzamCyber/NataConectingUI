@@ -20,7 +20,7 @@ Replaces the default FiveM connecting dialog with a realistic, immersive "Flight
 
 ## 📸 Preview
 
-(https://raw.githubusercontent.com/AzzamCyber/NataConectingUI/refs/heads/main/visual.png)
+*(https://raw.githubusercontent.com/AzzamCyber/NataConectingUI/refs/heads/main/visual.png)*
 
 
 ## 📥 Installation
