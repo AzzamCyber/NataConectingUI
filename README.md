@@ -41,7 +41,7 @@ Restart your server.
 Open config.lua to customize the UI. You must provide direct image links (Discord/Imgur) for the background and logo.
 
 Lua
-
+```bach
 Config = {}
 
 -- Visual Settings
@@ -57,6 +57,7 @@ Config.Queue = {
         Final   = "Clearing runway..."
     }
 }
+```
 🛠️ Tech Stack
 Language: Lua (Server-side)
 
@@ -67,10 +68,8 @@ Platform: FiveM (Cfx.re)
 🤝 Contributing
 Contributions, issues, and feature requests are welcome! Feel free to check the issues page.
 
-<div align="center">
 
 Developed with ❤️ by
 Azzam Codex
 GitHub Profile
 
-</div>
