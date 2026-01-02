@@ -11,7 +11,7 @@ Replaces the default FiveM connecting dialog with a realistic, immersive "Flight
 
 ## 📌 Features
 
-- **🎨 Realistic Boarding Pass UI:** Inspired by premium airline tickets (Hope Indonesia Style).
+- **🎨 Realistic Boarding Pass UI:** Inspired by premium airline tickets.
 - **⏳ Realtime FIFO Queue:** First-In-First-Out system. Players wait in a real queue line (Pos 1, Pos 2, etc.) before entering.
 - **🕒 Realtime Data:** Displays real-time player clock (Arrival Time), SteamHEX, and Player Name automatically.
 - **🖼️ Fully Configurable:** Easily change Background Image, Server Logo, Flight Class, and Route via `config.lua`.
