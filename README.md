@@ -20,8 +20,8 @@ Replaces the default FiveM connecting dialog with a realistic, immersive "Flight
 
 ## 📸 Preview
 
-*(Place your screenshots here)*
-> The UI displays a dark-themed boarding pass with a realtime countdown timer and queue position indicator.
+*[(Place your screenshots here)](https://raw.githubusercontent.com/AzzamCyber/NataConectingUI/refs/heads/main/visual.png)*
+
 
 ## 📥 Installation
 
